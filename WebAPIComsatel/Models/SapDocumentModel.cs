@@ -1,0 +1,194 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Drawing;
+using System.Linq;
+using System.Web;
+
+namespace WebAPIComsatel.Models
+{
+    public class SapDocumentModel
+    {
+        // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse);
+
+
+        public int DocEntry { get; set; }
+        public int DocNum { get; set; }
+        public string DocType { get; set; }
+        public string HandWritten { get; set; }
+        public string Printed { get; set; }
+        public DateTime DocDate { get; set; }
+        public DateTime DocDueDate { get; set; }
+        public string CardCode { get; set; }
+        public string CardName { get; set; }
+        public string Address { get; set; }
+        public string NumAtCard { get; set; }
+        public double DocTotal { get; set; }
+        public int? AttachmentEntry { get; set; }
+        public string DocCurrency { get; set; }
+        public double DocRate { get; set; }
+        public string Reference1 { get; set; }
+        public object Reference2 { get; set; }
+        public string Comments { get; set; }
+        public string JournalMemo { get; set; }
+        public int PaymentGroupCode { get; set; }
+        public string DocTime { get; set; }
+        public int SalesPersonCode { get; set; }
+        public int TransportationCode { get; set; }
+        public string Confirmed { get; set; }
+        public int ContactPersonCode { get; set; }
+        public string ShowSCN { get; set; }
+        public int Series { get; set; }
+        public DateTime TaxDate { get; set; }
+        public string PartialSupply { get; set; }
+        public string DocObjectCode { get; set; }
+        public object ShipToCode { get; set; }
+        public object Indicator { get; set; }
+        public string FederalTaxID { get; set; }
+        public double DiscountPercent { get; set; }
+        public object PaymentReference { get; set; }
+        public DateTime CreationDate { get; set; }
+        public DateTime UpdateDate { get; set; }
+        public int FinancialPeriod { get; set; }
+        public double VatSum { get; set; }
+        public double VatSumSys { get; set; }
+        public double VatSumFc { get; set; }
+        public string NetProcedure { get; set; }
+        public double DocTotalFc { get; set; }
+        public double DocTotalSys { get; set; }
+        public string RevisionPo { get; set; }
+        public DateTime RequriedDate { get; set; }
+        public object CancelDate { get; set; }
+        public string BlockDunning { get; set; }
+        public string Submitted { get; set; }
+        public int Segment { get; set; }
+        public string PickStatus { get; set; }
+        public string Pick { get; set; }
+        public string PaymentMethod { get; set; }
+        public string PaymentBlock { get; set; }
+        public object PaymentBlockEntry { get; set; }
+        public object CentralBankIndicator { get; set; }
+        public string MaximumCashDiscount { get; set; }
+        public string Reserve { get; set; }
+        public string Project { get; set; }
+        public object ExemptionValidityDateFrom { get; set; }
+        public object ExemptionValidityDateTo { get; set; }
+        public string WareHouseUpdateType { get; set; }
+        public string Rounding { get; set; }
+        public object ExternalCorrectedDocNum { get; set; }
+        public object InternalCorrectedDocNum { get; set; }
+        public object NextCorrectingDocument { get; set; }
+        public string DeferredTax { get; set; }
+        public object TaxExemptionLetterNum { get; set; }
+        public double WTApplied { get; set; }
+        public double WTAppliedFC { get; set; }
+        public string BillOfExchangeReserved { get; set; }
+        public object AgentCode { get; set; }
+        public double WTAppliedSC { get; set; }
+        public double TotalEqualizationTax { get; set; }
+        public double TotalEqualizationTaxFC { get; set; }
+        public double TotalEqualizationTaxSC { get; set; }
+        public int NumberOfInstallments { get; set; }
+        public string ApplyTaxOnFirstInstallment { get; set; }
+        public double WTNonSubjectAmount { get; set; }
+        public double WTNonSubjectAmountSC { get; set; }
+        public double WTNonSubjectAmountFC { get; set; }
+        public double WTExemptedAmount { get; set; }
+        public double WTExemptedAmountSC { get; set; }
+        public double WTExemptedAmountFC { get; set; }
+        public double BaseAmount { get; set; }
+        public double BaseAmountSC { get; set; }
+        public double BaseAmountFC { get; set; }
+        public double WTAmount { get; set; }
+        public double WTAmountSC { get; set; }
+        public double WTAmountFC { get; set; }
+        public object VatDate { get; set; }
+        public object DocumentsOwner { get; set; }
+        public object FolioPrefixString { get; set; }
+        public object FolioNumber { get; set; }
+        public string DocumentSubType { get; set; }
+        public object BPChannelCode { get; set; }
+        public object BPChannelContact { get; set; }
+        public string Address2 { get; set; }
+        public string DocumentStatus { get; set; }
+        public string PeriodIndicator { get; set; }
+        public string PayToCode { get; set; }
+        public object ManualNumber { get; set; }
+        public string UseShpdGoodsAct { get; set; }
+        public string IsPayToBank { get; set; }
+        public object PayToBankCountry { get; set; }
+        public object PayToBankCode { get; set; }
+        public object PayToBankAccountNo { get; set; }
+        public object PayToBankBranch { get; set; }
+        public object BPL_IDAssignedToInvoice { get; set; }
+        public double DownPayment { get; set; }
+        public string ReserveInvoice { get; set; }
+        public int LanguageCode { get; set; }
+        public object TrackingNumber { get; set; }
+        public string PickRemark { get; set; }
+        public object ClosingDate { get; set; }
+        public object SequenceCode { get; set; }
+        public object SequenceSerial { get; set; }
+        public object SeriesString { get; set; }
+        public object SubSeriesString { get; set; }
+        public string SequenceModel { get; set; }
+        public string UseCorrectionVATGroup { get; set; }
+        public double TotalDiscount { get; set; }
+        public double DownPaymentAmount { get; set; }
+        public double DownPaymentPercentage { get; set; }
+        public string DownPaymentType { get; set; }
+        public double DownPaymentAmountSC { get; set; }
+        public double DownPaymentAmountFC { get; set; }
+        public double VatPercent { get; set; }
+        public object ServiceGrossProfitPercent { get; set; }
+        public object OpeningRemarks { get; set; }
+        public object ClosingRemarks { get; set; }
+        public double RoundingDiffAmount { get; set; }
+        public double RoundingDiffAmountFC { get; set; }
+        public double RoundingDiffAmountSC { get; set; }
+        public string Cancelled { get; set; }
+        public object SignatureInputMessage { get; set; }
+        public object SignatureDigest { get; set; }
+        public object CertificationNumber { get; set; }
+        public object PrivateKeyVersion { get; set; }
+        public string ControlAccount { get; set; }
+        public string InsuranceOperation347 { get; set; }
+        public string ArchiveNonremovableSalesQuotation { get; set; }
+        public object GTSChecker { get; set; }
+        public object GTSPayee { get; set; }
+        public int ExtraMonth { get; set; }
+        public int ExtraDays { get; set; }
+        public int CashDiscountDateOffset { get; set; }
+        public string StartFrom { get; set; }
+        public string NTSApproved { get; set; }
+        public object ETaxWebSite { get; set; }
+        public object ETaxNumber { get; set; }
+        public object NTSApprovedNumber { get; set; }
+        public string EDocGenerationType { get; set; }
+        public object EDocSeries { get; set; }
+        public object EDocNum { get; set; }
+        public object EDocExportFormat { get; set; }
+        public string EDocStatus { get; set; }
+        public object EDocErrorCode { get; set; }
+        public object EDocErrorMessage { get; set; }
+        public string DownPaymentStatus { get; set; }
+        public object GroupSeries { get; set; }
+        public object GroupNumber { get; set; }
+        public string GroupHandWritten { get; set; }
+        public string CreateOnlineQuotation { get; set; }
+
+        public string ApplyCurrentVATRatesForDownPaymentsToDraw { get; set; }
+        public string ClosingOption { get; set; }
+        public object SpecifiedClosingDate { get; set; }
+        public string OpenForLandedCosts { get; set; }
+        public string AuthorizationStatus { get; set; }
+        public double TotalDiscountFC { get; set; }
+        public double TotalDiscountSC { get; set; }
+        public string InventoryStatus { get; set; }
+        public string PlasticPackagingTaxRelevant { get; set; }
+        public List<SapDocumentLineModel> DocumentLines { get; set; }
+
+        public string U_SYP_TCOMPRA { get; set; }
+        public string U_SYP_TIPOSC  { get; set; }
+
+    }
+}

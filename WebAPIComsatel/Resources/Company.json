@@ -1,0 +1,197 @@
+[
+  {
+    "ID": "EMP1", //ID de la base de datos
+    "BD": "B1H_FLESAN_DELPERU_01182024", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "RORDONEZ",
+    "PSW": "123456",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "FLESAN DEL PERÚ", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/dvc_saceem.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_dvc_saceem.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_dvc_saceem.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP2", //ID de la base de datos
+    "BD": "B1H_DVC_08032023", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "RORDONEZ",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "PRUEBA_DE VICENTE CONSTRUCTORA S.A.C.", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/flesan_dvc.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_flesan_dvc.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_flesan_dvc.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP3", //ID de la base de datos
+    "BD": "B1H_ICAFALFLESAN", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "CONSORCIO ICAFAL - FLESAN", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/icafal_flesan.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_icafal_flesan.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_icafal_flesan.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP4", //ID de la base de datos
+    "BD": "B1H_DVC", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "DE VICENTE CONSTRUCTORA S.A.C.", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/dvc.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_dvc.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_dvc.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP5", //ID de la base de datos
+    "BD": "B1H_FAI", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "FLESAN ACTIVOS INMOBILIARIOS PERU SAC", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/fai.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_fai.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_fai.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP6", //ID de la base de datos
+    "BD": "FLESAN_ANCLAJES_SA", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "FLESAN ANCLAJES S.A.C.", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/flesan_anclajes.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_flesan.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_flesan_anclajes.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP7", //ID de la base de datos
+    "BD": "B1H_FLESAN_DELPERU", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "FLESAN DEL PERÚ", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/flesan.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_flesan.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_flesan.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP8", //ID de la base de datos
+    "BD": "FLESAN_GESTION_PERU_SA", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "FLESAN GESTION PERU SA", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/flesan_gestion.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_flesan.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_flesan_gestion.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP9", //ID de la base de datos
+    "BD": "B1H_FMIN", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "FLESAN MINERIA DEL PERU", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/flesan_mineria.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_flesan.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_flesan_mineria.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP10", //ID de la base de datos
+    "BD": "B1H_PIPRADO2", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "PI PRADO 2 SAC", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/pi_prado2.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_fai.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_piprado2.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP11", //ID de la base de datos
+    "BD": "B1H_PIPRADO3", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "PI PRADO 3 SAC", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/pi_prado3.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_fai.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_piprado3.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP12", //ID de la base de datos
+    "BD": "B1H_PI_PRADO2_C", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "PI PRADO C2 S.A.C.", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/pi_prado_c2.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_fai.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_pipradoc2.png" //URL de la imagen de fondo
+  },
+  {
+    "ID": "EMP13", //ID de la base de datos
+    "BD": "B1H_PI_PRADO3_C", //Base de datos SAP
+    "USERBD": "B1Admin", //Usuario de base de datos SAP,
+    "PWBD": "P4ssw0rd", //Password de base de datos SAP
+    "URL": "", //URL de conexi�n a Service Layer base
+    "USER": "",
+    "PSW": "1234",
+    "SERVERBD": "", //Servidor de base de datos SAP
+    "SERVERLIC": "https://10.0.0.4:50000", //Servidor de licencias SAP
+    "NAME": "PI PRADO C3 SAC", //Nombre de sociedad SAP": null,
+    "URLTHUMBNAIL": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/pi_prado_c3.png", //URL de la representaci�n gr�fica
+    "URLLOGO": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Empresas/logo_fai.png", //URL del logo
+    "URLBACKGROUND": "https://grupoflesan.com.pe/public/imagenes/AppSAP/Portada2/fondo_pipradoc3.png" //URL de la imagen de fondo
+  }
+]
